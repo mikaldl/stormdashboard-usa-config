@@ -1,0 +1,277 @@
+{
+    "default": "Surface Observations",
+    "categories": {
+        "NOWCASTING": [
+            {
+                "subCategory": true,
+                "name": "SPC - MESO ANALYSIS",
+                "children": [
+                    {
+                        "name": "Surface Observations",
+                        "children": [
+                            {
+                                "name": "South-Central",
+                                "url": "https://www.spc.noaa.gov/exper/mesoanalysis/s15/bigsfc/bigsfc.gif"
+                            },
+                            {
+                                "name": "Central",
+                                "url": "https://www.spc.noaa.gov/exper/mesoanalysis/s14/bigsfc/bigsfc.gif"
+                            },
+                            {
+                                "name": "North-Central",
+                                "url": "https://www.spc.noaa.gov/exper/mesoanalysis/s13/bigsfc/bigsfc.gif"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Outlook",
+                        "children": [
+                            {
+                                "name": "Day 1",
+                                "url": "https://www.spc.noaa.gov/products/outlook/day1otlk.html"
+                            },
+                            {
+                                "name": "Day 2",
+                                "url": "https://www.spc.noaa.gov/products/outlook/day2otlk.html"
+                            },
+                            {
+                                "name": "Day 3",
+                                "url": "https://www.spc.noaa.gov/products/outlook/day3otlk.html"
+                            },
+                            {
+                                "name": "Day 4-8",
+                                "url": "https://www.spc.noaa.gov/products/exper/day4-8/"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Soundings",
+                        "url": "https://www.spc.noaa.gov/exper/soundings/"
+                    },
+                    {
+                        "name": "CAPE - Surface based",
+                        "children": [
+                            {
+                                "name": "South-Central",
+                                "url": "https://www.spc.noaa.gov/exper/mesoanalysis/s15/sbcp/sbcp.gif"
+                            },
+                            {
+                                "name": "Central",
+                                "url": "https://www.spc.noaa.gov/exper/mesoanalysis/s14/sbcp/sbcp.gif"
+                            },
+                            {
+                                "name": "North-Central",
+                                "url": "https://www.spc.noaa.gov/exper/mesoanalysis/s13/sbcp/sbcp.gif"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "CAPE - Mixed Layer (100mb)",
+                        "children": [
+                            {
+                                "name": "South-Central",
+                                "url": "https://www.spc.noaa.gov/exper/mesoanalysis/s15/mlcp/mlcp.gif"
+                            },
+                            {
+                                "name": "Central",
+                                "url": "https://www.spc.noaa.gov/exper/mesoanalysis/s14/mlcp/mlcp.gif"
+                            },
+                            {
+                                "name": "North-Central",
+                                "url": "https://www.spc.noaa.gov/exper/mesoanalysis/s13/mlcp/mlcp.gif"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Wind - Shear 0-6km",
+                        "children": [
+                            {
+                                "name": "South-Central",
+                                "url": "https://www.spc.noaa.gov/exper/mesoanalysis/s15/shr6/shr6.gif"
+                            },
+                            {
+                                "name": "Central",
+                                "url": "https://www.spc.noaa.gov/exper/mesoanalysis/s14/shr6/shr6.gif"
+                            },
+                            {
+                                "name": "North-Central",
+                                "url": "https://www.spc.noaa.gov/exper/mesoanalysis/s13/shr6/shr6.gif"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Wind - 500mb",
+                        "children": [
+                            {
+                                "name": "South-Central",
+                                "url": "https://www.spc.noaa.gov/exper/mesoanalysis/s15/500mb/500mb.gif"
+                            },
+                            {
+                                "name": "Central",
+                                "url": "https://www.spc.noaa.gov/exper/mesoanalysis/s14/500mb/500mb.gif"
+                            },
+                            {
+                                "name": "North-Central",
+                                "url": "https://www.spc.noaa.gov/exper/mesoanalysis/s13/500mb/500mb.gif"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Wind - 700mb",
+                        "children": [
+                            {
+                                "name": "South-Central",
+                                "url": "https://www.spc.noaa.gov/exper/mesoanalysis/s15/700mb/700mb.gif"
+                            },
+                            {
+                                "name": "Central",
+                                "url": "https://www.spc.noaa.gov/exper/mesoanalysis/s14/700mb/700mb.gif"
+                            },
+                            {
+                                "name": "North-Central",
+                                "url": "https://www.spc.noaa.gov/exper/mesoanalysis/s13/700mb/700mb.gif"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Satellite",
+                        "children": [
+                            {
+                                "name": "South-Central",
+                                "url": "https://www.spc.noaa.gov/exper/mesoanalysis/s15/1kmv/1kmv.gif"
+                            },
+                            {
+                                "name": "Central",
+                                "url": "https://www.spc.noaa.gov/exper/mesoanalysis/s14/1kmv/1kmv.gif"
+                            },
+                            {
+                                "name": "North-Central",
+                                "url": "https://www.spc.noaa.gov/exper/mesoanalysis/s13/1kmv/1kmv.gif"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Dynamic",
+                        "children": [
+                            {
+                                "name": "South Central",
+                                "url": "https://www.spc.noaa.gov/exper/mesoanalysis/new/viewsector.php?sector=15&parm=cpsh&underlay=4&source=1"
+                            },
+                            {
+                                "name": "Central",
+                                "url": "https://www.spc.noaa.gov/exper/mesoanalysis/new/viewsector.php?sector=14&parm=cpsh&underlay=1&source=1",
+                                "default": true
+                            },
+                            {
+                                "name": "North Central",
+                                "url": "https://www.spc.noaa.gov/exper/mesoanalysis/new/viewsector.php?sector=13&parm=cpsh&underlay=1&source=1"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "subCategory": true,
+                "name": "COLLEGE OF DUPAGE",
+                "children": [
+                    {
+                        "name": "Nexlab - Satellite",
+                        "children": [
+                            {
+                                "name": "South-Central",
+                                "url": "https://weather.cod.edu/satrad/?parms=regional-southcentral-13-6-0-100-1&checked=map&colorbar=undefined"
+                            },
+                            {
+                                "name": "Central",
+                                "url": "https://weather.cod.edu/satrad/?parms=regional-central-13-6-0-100-1&checked=map&colorbar=undefined"
+                            },
+                            {
+                                "name": "North-Central",
+                                "url": "https://weather.cod.edu/satrad/?parms=regional-northcentral-13-6-0-100-1&checked=map&colorbar=undefined"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Upper Air Soundings",
+                        "url": "https://weather.cod.edu/buildmap/analysis/raob_build.php"
+                    }
+                ]
+            },
+            {
+                "subCategory": true,
+                "name": "UCAR",
+                "children": [
+                    {
+                        "name": "Surface Observations ",
+                        "children": [
+                            {
+                                "name": "South-Central",
+                                "url": "http://weather.rap.ucar.edu/surface/displaySfc.php?region=abi&duration=0"
+                            },
+                            {
+                                "name": "Central",
+                                "url": "http://weather.rap.ucar.edu/surface/displaySfc.php?region=ict&duration=0"
+                            },
+                            {
+                                "name": "North-Central",
+                                "url": "http://weather.rap.ucar.edu/surface/displaySfc.php?region=pir&duration=0"
+                            },
+                            {
+                                "name": "West-Central",
+                                "url": "http://weather.rap.ucar.edu/surface/displaySfc.php?region=den&duration=0"
+                            },
+                            {
+                                "name": "South-West-Central",
+                                "url": "http://weather.rap.ucar.edu/surface/displaySfc.php?region=abq&duration=0"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Upper Air Soundings ",
+                        "url": "https://weather.rap.ucar.edu/upper/"
+                    }
+                ]
+            }
+        ],
+        "FORECASTING": [
+            {
+                "subCategory": true,
+                "name": "Pivotalweather",
+                "children": [
+                    {
+                        "name": "HRRR",
+                        "children": [
+                            {
+                                "name": "South Central",
+                                "url": "https://www.pivotalweather.com/model.php?fh=0&dpdt=&mc=&r=us_sc&p=sfct-imp&m=hrrr"
+                            },
+                            {
+                                "name": "Central",
+                                "url": "https://www.pivotalweather.com/model.php?fh=0&dpdt=&mc=&r=us_c&p=sfct-imp&m=hrrr",
+                                "default": true
+                            },
+                            {
+                                "name": "North Central",
+                                "url": "https://www.pivotalweather.com/model.php?fh=0&dpdt=&mc=&r=us_nc&p=sfct-imp&m=hrrr"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "subCategory": true,
+                "name": "COLLEGE OF DUPAGE ",
+                "children": [
+                    {
+                        "name": "Legacy",
+                        "url": "https://weather.cod.edu/forecast/legacy/"
+                    },
+                    {
+                        "name": "4 Panel",
+                        "url": "https://climate.cod.edu/products/forecast/mod4p.php"
+                    }
+                ]
+            }
+        ]
+    }
+}
