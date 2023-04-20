@@ -272,6 +272,9 @@
                     }
                 ]
             }
-        ]
+        ],
+        "Request a Change": {
+            "url": "https://github.com/mikaldl/stormdashboard-usa-config/issues"
+        }
     }
 }
