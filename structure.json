@@ -372,6 +372,26 @@
                 ]
             }
         ],
+        "OTHER": [
+            {
+                "subCategory": true,
+                "name": "SPC",
+                "children": [
+                    {
+                        "name": "Storm Reports",
+                        "url": "https://www.spc.noaa.gov/climo/reports/yesterday.html"
+                    },
+                    {
+                        "name": "Product archive",
+                        "url": "https://www.spc.noaa.gov/archive/"
+                    },
+                    {
+                        "name": "Tornado Trend",
+                        "url": "https://www.spc.noaa.gov/wcm/torgraph-big.png"
+                    }
+                ]
+            }
+        ],
         "Request a Change": {
             "url": "https://github.com/mikaldl/stormdashboard-usa-config/issues"
         }
