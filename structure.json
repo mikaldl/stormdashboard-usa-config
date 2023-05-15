@@ -298,6 +298,10 @@
                             {
                                 "name": "North Central",
                                 "url": "https://www.pivotalweather.com/model.php?fh=0&dpdt=&mc=&r=us_nc&p=sfct-imp&m=hrrr"
+                            },
+                            {
+                                "name": "Continental",
+                                "url": "https://www.pivotalweather.com/model.php?fh=0&dpdt=&mc=&r=conus&p=sfct-imp&m=hrrr"
                             }
                         ]
                     },
@@ -316,6 +320,10 @@
                             {
                                 "name": "North Central",
                                 "url": "https://www.pivotalweather.com/model.php?fh=0&dpdt=&mc=&r=us_nc&p=sfct-imp&m=nam"
+                            },
+                            {
+                                "name": "Continental",
+                                "url": "https://www.pivotalweather.com/model.php?fh=0&dpdt=&mc=&r=conus&p=sfct-imp&m=nam"
                             }
                         ]
                     },
@@ -334,6 +342,10 @@
                             {
                                 "name": "North Central",
                                 "url": "https://www.pivotalweather.com/model.php?fh=0&dpdt=&mc=&r=us_nc&p=sfct-imp&m=gfs"
+                            },
+                            {
+                                "name": "Continental",
+                                "url": "https://www.pivotalweather.com/model.php?fh=0&dpdt=&mc=&r=conus&p=sfct-imp&m=gfs"
                             }
                         ]
                     },
@@ -352,6 +364,10 @@
                             {
                                 "name": "North Central",
                                 "url": "https://www.pivotalweather.com/model.php?fh=0&dpdt=&mc=&r=us_nc&p=sfct-imp&m=cfs"
+                            },
+                            {
+                                "name": "Continental",
+                                "url": "https://www.pivotalweather.com/model.php?fh=0&dpdt=&mc=&r=conus&p=sfct-imp&m=cfs"
                             }
                         ]
                     }
